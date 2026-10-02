@@ -385,21 +385,31 @@ img {
 .nav-actions {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
 }
 
 .language-label {
   color: #ffffff;
-  font-size: 0.85rem;
+  padding: 8px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  border-radius: 8px;
+  background: #003d67;
+  font-size: 0.9rem;
+  font-weight: 700;
 }
 
 .language-select {
-  min-height: 42px;
-  padding: 8px 30px 8px 10px;
-  border: 1px solid rgba(255, 255, 255, 0.55);
+  min-width: 170px;
+  min-height: 48px;
+  padding: 8px 34px 8px 12px;
+  border: 2px solid #ffffff;
   border-radius: 8px;
-  color: #ffffff;
-  background: #075895;
+  color: #122338;
+  background-color: #ffffff;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  appearance: auto;
 }
 
 .language-select option {

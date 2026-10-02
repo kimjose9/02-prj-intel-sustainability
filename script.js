@@ -10,7 +10,7 @@ const arabicText = {
   intelHome: 'الصفحة الرئيسية لشركة إنتل',
   intelLogo: 'شعار إنتل',
   navLabel: 'داخل الإشارة / ٠١',
-  languageLabel: 'اللغة',
+  languageLabel: 'اختر اللغة / Choose language',
   exploreTimeline: 'استكشف الخط الزمني',
   heroEyebrow: 'أرشيف حي / ١٩٦٨ - ٢٠٢٤',
   heroTitle: 'التقدم يبدأ بالتغيير.',
